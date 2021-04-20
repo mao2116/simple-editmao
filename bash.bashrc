@@ -7,7 +7,6 @@ echo ""
 clear
 cd $PREFIX/etc
 xp=$(cat mao.txt)
-xp="2116"
 figlet -f slant   'WELCOME' |lolcat
 figlet -f slant   " HOME" |lolcat
 x="-----------------------🅵🆄🅲🅺-----------------------"
