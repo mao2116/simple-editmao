@@ -26,6 +26,7 @@ read -sp "Password :" pass
   fi
 done
 clear
+cd
 clear
 
 echo
